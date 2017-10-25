@@ -1,1 +1,2 @@
-# JSON API with Node and Mongo
+# Todo list JSON API with Node, Express, Mongo and jQuery
+
